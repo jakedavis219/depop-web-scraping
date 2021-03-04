@@ -1,2 +1,2 @@
 e = "email address"
-p = "passwordgit in"
+p = "password"
