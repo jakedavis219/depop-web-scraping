@@ -3,6 +3,7 @@ This repo scrapes a few competitors and returns a CSV of the shop name, their to
 
 Also has the functionality to email yourself the results
 
+in creds..
 ```
 e={insert your gmail}
 p={insert your password}
